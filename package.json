@@ -1,0 +1,15 @@
+{
+  "name": "email-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sganon/email-parser.git",
+  "author": "Simon Ganon <simon@blueboard.io>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.0.0",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.7.0",
+    "request": "^2.85.0",
+    "request-promises": "^1.1.0"
+  }
+}
